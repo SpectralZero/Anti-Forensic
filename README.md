@@ -111,7 +111,7 @@ The Anti-Forensic Toolkit is a powerful, feature-rich application designed to pr
    ```bash
    # Clone or download the project files to your preferred location
 
-Install Dependencies
+2. **Install Dependencies**
    ```bash 
     pip install -r requirements.txt
 
