@@ -490,11 +490,11 @@ We're particularly interested in:
 
 ##  Acknowledgments
 
-- ** Author**: SpectralZero - Cyber Security Student at World Islamic Science and Education (WISE)
-- ** Security Community**: For valuable feedback and testing
-- ** Open Source Projects**: That inspired and enabled this toolkit
-- ** Contributors**: Everyone who helped improve this project
-- ** Testers**: For thorough testing across multiple platforms
+-  Author: SpectralZero - Cyber Security Student at World Islamic Science and Education (WISE)
+-  Security Community: For valuable feedback and testing
+-  Open Source Projects: That inspired and enabled this toolkit
+-  Contributors: Everyone who helped improve this project
+-  Testers: For thorough testing across multiple platforms
 
 ---
 
