@@ -1,0 +1,41 @@
+
+## requirements.txt
+
+```txt
+# Anti-Forensic Toolkit v2.0 - Python Dependencies
+# Python 3.8 or higher required
+
+# GUI Framework - Modern CustomTkinter for enhanced UI
+customtkinter>=5.2.0
+
+# System Monitoring & Information Gathering
+psutil>=5.9.0
+
+# Network Requests & External API Calls
+requests>=2.31.0
+
+# Enhanced Hashing Algorithms (Optional - for future expansion)
+# blake3>=0.3.1
+
+# Platform-Specific Enhancements
+# These are optional but recommended for full functionality:
+
+# Windows-specific enhancements (built-in typically)
+# ctypes; sys_platform == "win32"
+
+# macOS enhancements (optional)
+# pyobjc-framework-Cocoa; sys_platform == "darwin"
+
+# Linux-specific packages (optional)
+# dbus-python; sys_platform == "linux"
+
+# Development & Testing Dependencies (Optional)
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.0.0
+
+# Note: The application uses these Python standard library modules:
+# - os, sys, platform, logging, threading, time, tempfile, shutil
+# - pathlib, glob, subprocess, hashlib, uuid, json, datetime
+# - tkinter (via customtkinter), mmap, getpass, socket, typing

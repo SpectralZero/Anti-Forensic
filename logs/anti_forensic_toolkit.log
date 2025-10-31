@@ -1,0 +1,99 @@
+2025-10-26 20:15:59,298 - forensic_utilities - INFO - Wiping 552.12 GB free space in C:\Users\RTX\Desktop\del
+2025-10-26 20:15:59,299 - forensic_utilities - INFO - Free space wipe pass 1/3
+2025-10-26 20:33:27,041 - forensic_utilities - INFO - Cleared 0 browser cache items
+2025-10-26 20:33:58,759 - forensic_utilities - INFO - Cleared 0 browser cache items
+2025-10-26 20:35:28,374 - forensic_utilities - INFO - Cleared 0 browser cache items
+2025-10-26 20:38:39,444 - forensic_utilities - WARNING - Admin privileges required for log clearing
+2025-10-26 20:39:06,554 - forensic_utilities - ERROR - Attempted to wipe system drive - operation blocked
+2025-10-26 20:40:25,410 - forensic_utilities - ERROR - Attempted to wipe system drive - operation blocked
+2025-10-26 20:42:18,128 - secure_delete - ERROR - Advanced shredding failed: Refusing to shred system directory
+Traceback (most recent call last):
+  File "c:\Users\RTX\Desktop\forensic\core\secure_delete.py", line 200, in shred_file
+    raise ShredError("Refusing to shred system directory")
+core.secure_delete.ShredError: Refusing to shred system directory
+2025-10-26 20:42:22,771 - shredder_gui - ERROR - FAILED: Shred error: Refusing to shred system directory
+2025-10-26 20:55:14,682 - forensic_utilities - INFO - Cleared Edge cache: C:\Users\RTX\AppData\Local\Microsoft\Edge\User Data\Default\Cache\Cache_Data
+2025-10-26 20:55:14,682 - forensic_utilities - INFO - Cleared 1 browser cache items
+2025-10-26 21:06:39,541 - forensic_utilities - INFO - Wiping 5.00 GB free space in D:\n
+2025-10-26 21:06:39,541 - forensic_utilities - INFO - Free space wipe pass 1/1
+2025-10-26 21:06:48,624 - forensic_utilities - INFO - Free space wipe completed successfully
+2025-10-26 21:11:01,069 - forensic_utilities - WARNING - Could not clear Application log: Failed to clear log Application.
+Access is denied.
+
+2025-10-26 21:11:01,103 - forensic_utilities - WARNING - Could not clear System log: Failed to clear log System.
+Access is denied.
+
+2025-10-26 21:11:01,112 - forensic_utilities - INFO - Cleared 27 Windows log items
+2025-10-26 21:17:14,277 - shredder_gui - INFO - SUCCESS: Completely shredded and deleted
+2025-10-26 21:17:54,919 - forensic_utilities - INFO - Wiping 620.99 GB free space in D:\
+2025-10-26 21:17:54,919 - forensic_utilities - INFO - Free space wipe pass 1/1
+2025-10-26 21:34:36,101 - forensic_utilities - INFO - Free space wipe completed successfully
+2025-10-26 21:44:21,522 - forensic_utilities - INFO - Cleared 0 browser cache items
+2025-10-26 21:44:22,670 - forensic_utilities - WARNING - Could not clear Application log: Failed to clear log Application.
+Access is denied.
+
+2025-10-26 21:44:22,714 - forensic_utilities - WARNING - Could not clear System log: Failed to clear log System.
+Access is denied.
+
+2025-10-26 21:44:22,717 - forensic_utilities - INFO - Cleared 1 Windows log items
+2025-10-26 21:44:24,257 - forensic_utilities - INFO - Cleared temp directory: C:\Users\RTX\AppData\Local\Temp
+2025-10-26 21:44:24,258 - forensic_utilities - INFO - Cleared temp directory: C:\Users\RTX\AppData\Local\Temp
+2025-10-26 21:44:24,259 - forensic_utilities - INFO - Cleared temp directory: C:\Users\RTX\AppData\Local\Temp
+2025-10-26 21:45:37,998 - forensic_utilities - INFO - Cleared 4051 temporary files
+2025-10-26 21:45:39,100 - forensic_utilities - INFO - Cleared recent documents: C:\Users\RTX\AppData\Roaming\Microsoft\Windows\Recent
+2025-10-26 21:45:39,130 - forensic_utilities - INFO - Cleared recent documents: C:\Users\RTX\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations
+2025-10-26 21:45:39,136 - forensic_utilities - INFO - Cleared recent documents: C:\Users\RTX\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations
+2025-10-26 21:45:44,869 - forensic_utilities - INFO - Cleared 929 recent document entries
+2025-10-26 21:45:45,900 - forensic_utilities - INFO - DNS cache cleared successfully
+2025-10-26 21:46:20,187 - forensic_utilities - WARNING - Could not clear Application log: Failed to clear log Application.
+Access is denied.
+
+2025-10-26 21:46:20,201 - forensic_utilities - WARNING - Could not clear System log: Failed to clear log System.
+Access is denied.
+
+2025-10-26 21:46:20,202 - forensic_utilities - INFO - Cleared 0 Windows log items
+2025-10-26 21:46:25,660 - forensic_utilities - INFO - Cleared 0 browser cache items
+2025-10-26 22:08:45,426 - forensic_utilities - INFO - Cleared 0 browser cache items
+2025-10-26 22:08:46,455 - forensic_utilities - WARNING - Could not clear Application log: Failed to clear log Application.
+Access is denied.
+
+2025-10-26 22:08:46,483 - forensic_utilities - WARNING - Could not clear System log: Failed to clear log System.
+Access is denied.
+
+2025-10-26 22:08:46,487 - forensic_utilities - INFO - Cleared 10 Windows log items
+2025-10-26 22:08:47,513 - forensic_utilities - INFO - Cleared temp directory: C:\Users\RTX\AppData\Local\Temp
+2025-10-26 22:08:47,514 - forensic_utilities - INFO - Cleared temp directory: C:\Users\RTX\AppData\Local\Temp
+2025-10-26 22:08:47,514 - forensic_utilities - INFO - Cleared temp directory: C:\Users\RTX\AppData\Local\Temp
+2025-10-26 22:09:45,010 - forensic_utilities - INFO - Cleared 29 temporary files
+2025-10-26 22:09:46,021 - forensic_utilities - INFO - Cleared recent documents: C:\Users\RTX\AppData\Roaming\Microsoft\Windows\Recent
+2025-10-26 22:09:46,022 - forensic_utilities - INFO - Cleared recent documents: C:\Users\RTX\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations
+2025-10-26 22:09:46,022 - forensic_utilities - INFO - Cleared recent documents: C:\Users\RTX\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations
+2025-10-26 22:09:51,152 - forensic_utilities - INFO - Cleared 3 recent document entries
+2025-10-26 22:09:52,180 - forensic_utilities - INFO - DNS cache cleared successfully
+2025-10-26 22:15:19,003 - forensic_utilities - INFO - Cleared Chrome cache: C:\Users\RTX\AppData\Local\Google\Chrome\User Data\Default\Cache
+2025-10-26 22:15:19,004 - forensic_utilities - INFO - Cleared Chrome cache: C:\Users\RTX\AppData\Local\Google\Chrome\User Data\Default\Code Cache
+2025-10-26 22:15:19,004 - forensic_utilities - INFO - Cleared Chrome cache: C:\Users\RTX\AppData\Local\Google\Chrome\User Data\Default\GPUCache
+2025-10-26 22:15:19,006 - forensic_utilities - INFO - Cleared Edge cache: C:\Users\RTX\AppData\Local\Microsoft\Edge\User Data\Default\Cache
+2025-10-26 22:15:19,815 - forensic_utilities - INFO - Cleared Edge cache: C:\Users\RTX\AppData\Local\Microsoft\Edge\User Data\Default\Code Cache
+2025-10-26 22:15:19,816 - forensic_utilities - INFO - Cleared Edge cache: C:\Users\RTX\AppData\Local\Microsoft\Edge\User Data\Default\GPUCache
+2025-10-26 22:15:19,918 - forensic_utilities - INFO - Cleared Brave cache: C:\Users\RTX\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Cache
+2025-10-26 22:15:20,209 - forensic_utilities - INFO - Cleared Brave cache: C:\Users\RTX\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Code Cache
+2025-10-26 22:16:06,880 - forensic_utilities - INFO - Cleared 16 browser cache items
+2025-10-26 22:16:07,427 - forensic_utilities - WARNING - Could not clear Application log: Failed to clear log Application.
+Access is denied.
+
+2025-10-26 22:16:07,454 - forensic_utilities - WARNING - Could not clear System log: Failed to clear log System.
+Access is denied.
+
+2025-10-26 22:16:07,454 - forensic_utilities - INFO - Cleared 0 Windows log items
+2025-10-26 22:16:07,963 - forensic_utilities - INFO - Cleared temp directory: C:\Users\RTX\AppData\Local\Temp
+2025-10-26 22:16:07,964 - forensic_utilities - INFO - Cleared temp directory: C:\Users\RTX\AppData\Local\Temp
+2025-10-26 22:16:07,965 - forensic_utilities - INFO - Cleared temp directory: C:\Users\RTX\AppData\Local\Temp
+2025-10-26 22:17:04,072 - forensic_utilities - INFO - Cleared 11 temporary files
+2025-10-26 22:17:04,583 - forensic_utilities - INFO - Cleared recent documents: C:\Users\RTX\AppData\Roaming\Microsoft\Windows\Recent
+2025-10-26 22:17:04,583 - forensic_utilities - INFO - Cleared recent documents: C:\Users\RTX\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations
+2025-10-26 22:17:04,584 - forensic_utilities - INFO - Cleared recent documents: C:\Users\RTX\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations
+2025-10-26 22:17:09,698 - forensic_utilities - INFO - Cleared 3 recent document entries
+2025-10-26 22:17:10,226 - forensic_utilities - INFO - DNS cache cleared successfully
+2025-10-26 22:19:27,084 - shredder_gui - INFO - SUCCESS: Shredded and preserved at C:\Users\RTX\Desktop\~3912379c4fcad5b1b6fecd2a67e32bc2.tmp
+2025-10-26 22:21:08,102 - shredder_gui - INFO - SUCCESS: Shredded and preserved at C:\Users\RTX\Desktop\~be1f78fc0f3db62002065e9a3b0d8e3c.tmp
