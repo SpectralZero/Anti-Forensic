@@ -500,8 +500,6 @@ We're particularly interested in:
 
 <div align="center">
 
-##  Protect Your Digital Footprint - Use Responsibly 
-
 **Last Updated**: Version 2.0 | 2024
 
 [![GitHub](https://img.shields.io/badge/GitHub-SpectralZero/Anti--Forensic-blue?style=for-the-badge&logo=github)](https://github.com/SpectralZero/Anti-Forensic)
