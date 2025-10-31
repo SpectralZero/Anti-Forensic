@@ -1,4 +1,5 @@
 """
+hash_calculator.py
 MULTI-ALGORITHM HASH GENERATOR 
 Comprehensive cryptographic hash calculation for forensic analysis
 """

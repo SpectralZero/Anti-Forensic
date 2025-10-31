@@ -1,4 +1,5 @@
 """
+system_info.py
  SYSTEM INFORMATION - Digital Forensics & Red Team Intelligence
 ENHANCED VERSION - Advanced System Intelligence & Network Forensics
 """

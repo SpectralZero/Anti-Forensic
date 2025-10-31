@@ -1,4 +1,5 @@
 """
+secure_delete.py
 ENHANCED SECURE DELETE  with Improved Path Detection
 """
 

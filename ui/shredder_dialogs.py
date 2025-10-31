@@ -1,4 +1,5 @@
 """
+shredder_dialogs.py
 ENHANCED SHREDDER GUI - Fixed Window Management
 """
 

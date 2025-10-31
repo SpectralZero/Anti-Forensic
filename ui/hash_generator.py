@@ -1,4 +1,5 @@
 """
+hash_generator.py
 HASH GENERATOR GUI 
 Multi-algorithm hash calculation interface
 """

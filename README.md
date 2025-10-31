@@ -1,4 +1,4 @@
-# 🛡️ Anti-Forensic Toolkit v2.0
+#  Anti-Forensic Toolkit v2.0
 
 **Advanced Digital Forensic Countermeasures & System Intelligence**
 
@@ -10,18 +10,18 @@ A comprehensive Python-based toolkit for digital privacy, forensic countermeasur
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen.svg)
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Author**: SpectralZero - Cyber Security Student at World Islamic Science and Education (WISE)
 - **Security Community**: For valuable feedback and testing
 - **Open Source Projects**: That inspired and enabled this toolkit
 - **Contributors**: Everyone who helped improve this project
 - **Testers**: For thorough testing across multiple platforms
-## 🌟 Overview
+##  Overview
 
 The Anti-Forensic Toolkit is a powerful, feature-rich application designed to provide comprehensive digital privacy protection and forensic countermeasures. It combines military-grade file destruction capabilities with advanced system intelligence gathering in a modern, user-friendly interface.
 
-### 🎯 Use Cases
+###  Use Cases
 
 - **Security Professionals**: Conduct authorized penetration testing and security assessments
 - **Privacy-Conscious Users**: Protect personal data from forensic recovery
@@ -29,13 +29,13 @@ The Anti-Forensic Toolkit is a powerful, feature-rich application designed to pr
 - **Digital Forensics Students**: Learn about anti-forensic techniques and countermeasures
 - **Red Teams**: Conduct operational security and clean-up activities
 
-## ⚡ Features
+##  Features
 
-### 🔐 Secure File Destruction
+###  Secure File Destruction
 - **Multiple Wiping Algorithms**:
-  - 🚀 **Simple Random**: Fast single-pass overwrite with random data
-  - 🛡️ **US DoD 5220.22-M**: 3-pass military standard (0x00, 0xFF, random)
-  - 🔒 **Gutmann Method**: 7-pass maximum security overwrite patterns
+  -  **Simple Random**: Fast single-pass overwrite with random data
+  -  **US DoD 5220.22-M**: 3-pass military standard (0x00, 0xFF, random)
+  -  **Gutmann Method**: 7-pass maximum security overwrite patterns
   - 🇨🇦 **RCMP OPS-II**: 4-pass Canadian government standard
 - **Advanced Metadata Obfuscation**:
   - Multiple secure file renames before deletion
@@ -47,7 +47,7 @@ The Anti-Forensic Toolkit is a powerful, feature-rich application designed to pr
   - SSD detection with appropriate warnings
   - Real-time progress monitoring with cancellation
 
-### 🧹 Comprehensive System Cleaning
+###  Comprehensive System Cleaning
 - **Browser Data Removal**:
   - Chrome, Firefox, Edge, Opera, Brave cache and temporary files
   - Complete browser profile cleaning
@@ -62,7 +62,7 @@ The Anti-Forensic Toolkit is a powerful, feature-rich application designed to pr
   - Configurable pass count (1-3 passes)
   - Progress tracking with estimated time remaining
 
-### 🔍 Advanced System Intelligence
+###  Advanced System Intelligence
 - **Hardware Forensics**:
   - Complete system specifications
   - CPU, memory, and storage detailed analysis
@@ -84,7 +84,7 @@ The Anti-Forensic Toolkit is a powerful, feature-rich application designed to pr
   - Persistence mechanism analysis
   - Browser forensic artifact enumeration
 
-### 🔐 Cryptographic Utilities
+###  Cryptographic Utilities
 - **Multi-Algorithm Hashing**:
   - MD5, SHA-1, SHA-256, SHA-512
   - SHA3-256, SHA3-512
@@ -98,7 +98,7 @@ The Anti-Forensic Toolkit is a powerful, feature-rich application designed to pr
   - Throughput measurement in MB/s
   - Comparative performance analysis
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - **Python 3.8 or higher**
@@ -112,14 +112,13 @@ The Anti-Forensic Toolkit is a powerful, feature-rich application designed to pr
    # Clone or download the project files to your preferred location
 
 Install Dependencies
-bash
+   ```bash 
+    pip install -r requirements.txt
 
-pip install -r requirements.txt
+    Run the Application
+    bash
 
-Run the Application
-bash
-
-python main.py
+    python main.py
 
 Platform-Specific Notes
 
@@ -177,8 +176,8 @@ text
     │
     ├── 📄 requirements.txt        # Python dependencies
     └── 📄 README.md              # This file
---
-🎮 Usage Guide
+
+Usage Guide
 Secure File Shredding
 
     Launch the Application
